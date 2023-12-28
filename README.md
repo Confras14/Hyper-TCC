@@ -4,9 +4,12 @@ Para Conseguir auxiliar, o projeto por meio de buzzers emite uma frequência ond
 
 Para fazer uso do dispositivo é necessário usar um app (disponivel abaixo e no repositório), onde por meio dele é possivel conectar ao arduino, ligar/desligar e usar funções, como exemplo: o modo pomodoro (técnica de estudo).
 
-[Link do app](https://gallery.appinventor.mit.edu/?galleryid=b7dcb795-d20d-4a6c-bb95-8b11fa859fe2)
+Link do App, feito pelo mit app inventor:
+[App](https://gallery.appinventor.mit.edu/?galleryid=b7dcb795-d20d-4a6c-bb95-8b11fa859fe2)
 
-
+Link do site: <br>
+- [Github](https://github.com/fFernanda-gomes/Hyper) <br>
+- [Site](https://hyper-tcc.vercel.app)
 ## Componentes
 - Arduino Uno;
 - Protoboard 400 pontos;
