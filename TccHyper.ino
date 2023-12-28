@@ -65,21 +65,6 @@
 //----------------------------------------------------
 
 void loop() {
-  /*Valores recebidos
-
-    - Qual buzzer
-    'A' = Buzzer alto
-    'a' = Buzzer baixo
-
-    - Modo Foco
-    'O' = Ligar modo Foco
-    'o' = Desligar modo Foco
-    
-    - Modo Pomo
-    'T' = Ligar modo Pomo
-    't' = Desligar modo Pomo
-  */
-
   //Lingando o led de status
     ledRGB(1, 20, 150, 50);
   //--------------------------------------------------
